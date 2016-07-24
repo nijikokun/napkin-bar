@@ -62,6 +62,7 @@ Most are Domain Driven Design (DDD). It's powerful and works for small to large 
 - **Patterns**
   - Domain Driven Design
   - Aspect Oriented Programming
+  - [Dependency Injection][dependency-injection-wikipedia]
 
 [no-underscore-lodash-article]: https://github.com/cht8687/You-Dont-Need-Lodash-Underscore
 
@@ -79,6 +80,7 @@ Most are Domain Driven Design (DDD). It's powerful and works for small to large 
 [two-organize-ember]: https://spin.atomicobject.com/2015/09/17/ember-js-clean/
 
 [ddd-wikipedia]: https://en.wikipedia.org/wiki/Domain-driven_design
+[dependency-injection-wikipedia]: https://en.wikipedia.org/wiki/Dependency_injection
 
 [ddd-amazon]: https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215
 [ddd-implement-amazon]: https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577/
