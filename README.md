@@ -44,6 +44,8 @@ Most are Domain Driven Design (DDD). It's powerful and works for small to large 
     - Takeaways: There are many ways to do communication between components.
   - [Higher Order Components][higher-order-components-react]
     - Takeaways: Dependency injection pattern for React Components.
+  - [Component Event Bubbling][component-event-bubbling-react]
+    - Takeaways: Event bubbling (or the passing of functions to be fired on later events) is a very powerful way to create flexible and scalable components without worrying about business logic.
 
 **FAQ**
 
@@ -74,6 +76,7 @@ Most are Domain Driven Design (DDD). It's powerful and works for small to large 
 [children-components-react]: http://buildwithreact.com/article/component-children
 [component-communication-react]: http://andrewhfarmer.com/component-communication/
 [higher-order-components-react]: https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.eg35rfocr
+[component-event-bubbling-react]: http://www.newmediacampaigns.com/blog/react-bubble-events
 
 [organize-structure-ember]: http://cball.me/organize-your-ember-app-with-pods/
 [how-to-use-pods-ember]: http://www.programwitherik.com/ember-pods/
