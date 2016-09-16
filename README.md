@@ -51,6 +51,8 @@ Most are Domain Driven Design (DDD). It's powerful and works for small to large 
 
 - **Q**: I think I have too many Components, how many is too many?
   - **A**: [You can never have too many.](https://twitter.com/poshaughnessy/status/542768271427375104)
+- **Q**: But, I use ______ framework! These don't apply to me do they?
+  - **A**: These are design patterns, they apply to software as a whole, all frameworks can utilize them.
 
 **Further Reading**
 
